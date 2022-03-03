@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Simon Schaefer. I am a deep learning researcher and robotics engineer 🤖
+My name is Simon Schaefer. I am a deep learning researcher and robotics engineer 🤖 
 
 📨 [Mail](mailto:simon.k.schaefer@gmail.com)
 🌍 [Website](simon-schaefer@github.io)
+🎓 [Google Scholar](https://scholar.google.com/citations?user=arUOBcwAAAAJ)
